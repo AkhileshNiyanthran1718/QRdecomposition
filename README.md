@@ -63,12 +63,9 @@ The Gram-Schmidt method orthogonalizes the columns of a matrix and helps in comp
 ```
 
 ## Output
-```
-<img width="898" height="861" alt="image" src="https://github.com/user-attachments/assets/1dd8bd2c-6ab9-4dea-a7d4-1e1ae53fec1f" />
 
+<img width="898" height="861" alt="image" src="https://github.com/user-attachments/assets/5e34d50c-1247-4ca4-8443-ac876d1b1a82" />
 
-
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
