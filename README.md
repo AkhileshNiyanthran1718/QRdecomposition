@@ -64,7 +64,8 @@ The Gram-Schmidt method orthogonalizes the columns of a matrix and helps in comp
 
 ## Output
 ```
-<img width="882" height="840" alt="image" src="https://github.com/user-attachments/assets/45edb627-30b6-418c-9050-b77aed84a806" />
+<img width="898" height="861" alt="image" src="https://github.com/user-attachments/assets/1dd8bd2c-6ab9-4dea-a7d4-1e1ae53fec1f" />
+
 
 
 ```
